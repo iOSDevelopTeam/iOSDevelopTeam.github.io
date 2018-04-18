@@ -3,16 +3,16 @@ title: iOSDevelopTeam's Blog
 SEOTitle: iOS开发小分队技术分享团队博客 | iOSDevelopTeam's Blog
 header-img: img/post-bg-desk.jpg
 email: shavekevin@gmail.com
-description: "Every failure is leading towards success."
-keyword: "iOSDevelopTeam, iOSDevelopTeam's Blog, iOS开发小分队技术分享团队的博客, iOS开发小分队, 邱柏荧, iOS, Apple, iPhone"
+description: "iOS开发小分队技术分享团队博客."
+keyword: "iOSDevelopTeam, iOSDevelopTeam's Blog, iOS开发小分队技术分享团队的博客, iOS开发小分队, 秦小风, iOS, Apple, iPhone"
 url: "http://iOSDevelopTeam.github.io"          # your host, for absolute URL
 baseurl: ""      # for example, '/blog' if your blog hosted on 'host/blog'
 github_repo: "https://github.com/iOSDevelopTeam/iOSDevelopTeam.github.io.git" # you code repository
 
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
-sidebar-about-description: "Goals determine what you going to be!"
-sidebar-avatar: /img/about-BY-gentle.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
+sidebar-about-description: "热爱生活，分享快乐。好记性不如烂笔头。多写，多记，多实践，多思考。"
+sidebar-avatar: /img/about-BY-gentle.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`你的大头贴，请使用绝对地址.注意：名字区分大小写！后缀名也是
 
 
 
@@ -97,13 +97,13 @@ service-worker: true
 
 
 # Friends
-friends: [
+友情链接: [
     {
-        title: "shavekevin",
+        title: "秦小风的博客",
         href: "http://www.shavekevin.com"
     },{
-        title: "简书·shavekevin",
-        href: "http://www.jianshu.com/u/485819d6ff79"
+        title: "简书·BeyoundCong",
+        href: "https://www.jianshu.com/u/81061b93579b"
     },{
         title: "Apple",
         href: "https://apple.com"
@@ -111,4 +111,6 @@ friends: [
         title: "Apple Developer",
         href: "https://developer.apple.com/"
     }
+
+
 ]
