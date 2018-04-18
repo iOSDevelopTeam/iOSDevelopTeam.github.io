@@ -1,5 +1,5 @@
 # Site settings
-title: iOSDevelopTeam's Blog
+title: iOS开发小分队技术分享团队博客
 SEOTitle: iOS开发小分队技术分享团队博客 | iOSDevelopTeam's Blog
 header-img: img/post-bg-desk.jpg
 email: shavekevin@gmail.com
@@ -77,8 +77,8 @@ gitalk:
 ba_track_id: 3a85cee99d281f2861b9aecd58817b93
 
 # Google Analytics
-ga_track_id: 'UA-90855596-1'            # Format: UA-xxxxxx-xx
-ga_domain: iOSDevelopTeam.auto               # 默认的是 auto, 这里我是自定义了的域名，你如果没有自己的域名，需要改成auto
+ga_track_id: 'UA-75163928-2'            # Format: UA-xxxxxx-xx
+ga_domain: auto               # 默认的是 auto, 这里我是自定义了的域名，你如果没有自己的域名，需要改成auto
 
 
 
@@ -97,7 +97,7 @@ service-worker: true
 
 
 # Friends
-友情链接: [
+friends: [
     {
         title: "秦小风的博客",
         href: "http://www.shavekevin.com"
