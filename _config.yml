@@ -77,7 +77,7 @@ gitalk:
 # 01a97918807d4888b7ab4fd1f135c9a3
 # 3a85cee99d281f2861b9aecd58817b93
 
-ba_track_id:01a97918807d4888b7ab4fd1f135c9a3
+ba_track_id: 01a97918807d4888b7ab4fd1f135c9a3
 
 # Google Analytics
 ga_track_id: 'UA-75163928-2'            # Format: UA-xxxxxx-xx
