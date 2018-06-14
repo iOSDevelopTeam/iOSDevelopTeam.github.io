@@ -940,6 +940,8 @@ anyCommonArrayElements([1,2,3], [2,3,4,5])
 ```
 上面我们所写的`<T:Equatable>`和`<T>...where T:Equatable` 是等价的。
 
+更多swift4.1翻译请查看[github](https://github.com/iOSDevelopShareTeam/SwiftTourv4.1)。
+
 QQ技术交流群：214541576 
 
 微信公众号：shavekevin
@@ -947,4 +949,5 @@ QQ技术交流群：214541576
 开发者头条：![](http://ww1.sinaimg.cn/large/006mQyr2ly1fqgrkt5gurj30qo1bcq53.jpg)
 
 热爱生活，分享快乐。好记性不如烂笔头。多写，多记，多实践，多思考。
+
 
