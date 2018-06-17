@@ -1,6 +1,6 @@
 ---
 layout:     post
-title:      逆向利器 - Cycript
+title:    Cycript
 subtitle:   iOS逆向 Cycript 之修改微信钱包
 date:       2018-06-17
 author:     BeyoundCong
